@@ -1,0 +1,3 @@
+﻿  demo.cpp
+D:\MineFile\MicrosoftVisualStudio_temp\demo\demo\demo.cpp(95,7): warning C4101:  “x”: 未引用的局部变量
+  demo.vcxproj -> D:\MineFile\MicrosoftVisualStudio_temp\demo\demo\Debug\demo.exe
